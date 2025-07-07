@@ -9,7 +9,7 @@
     "mergeJsonReport": "npx mochawesome-merge ./mochawesome-report/*.json -o ./mochawesome-report/result.json",
     "generateReport": "npx marge ./mochawesome-report/result.json -o ./mochawesome-report"
   },
-  "author": "ernestosbarbosa",
+  "author": "nathanblima",
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.6.3",
